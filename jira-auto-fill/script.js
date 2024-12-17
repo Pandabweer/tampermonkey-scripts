@@ -3,6 +3,8 @@
 // @namespace    https://bettyblocks.atlassian.net/
 // @version      1.0
 // @description  Automatically set the HubSpot id based on an organisation id
+// @updateURL    https://raw.githubusercontent.com/Pandabweer/tampermonkey-scripts/refs/heads/main/jira-auto-fill/script.js
+// @downloadURL  https://raw.githubusercontent.com/Pandabweer/tampermonkey-scripts/refs/heads/main/jira-auto-fill/script.js
 // @author       Enrique Bos
 // @match        https://bettyblocks.atlassian.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=atlassian.net
