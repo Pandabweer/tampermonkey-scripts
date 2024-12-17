@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Jira auto HubSpot adder
 // @namespace    https://bettyblocks.atlassian.net/
-// @version      1.0
+// @version      1.1
 // @description  Automatically set the HubSpot id based on an organisation id
 // @updateURL    https://raw.githubusercontent.com/Pandabweer/tampermonkey-scripts/refs/heads/main/jira-auto-fill/script.js
 // @downloadURL  https://raw.githubusercontent.com/Pandabweer/tampermonkey-scripts/refs/heads/main/jira-auto-fill/script.js
