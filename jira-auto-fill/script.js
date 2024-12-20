@@ -18,7 +18,7 @@
     406: { name: "Mazars", hubId: 6793782797 },
     263: { name: "DailyOps", hubId: 850557318 },
     259: { name: "de Politie", hubId: 579614642 },
-    270: { name: "Betty Blocks", hubId: 12345 },
+    270: { name: "Betty Blocks", hubId: "N/A" },
   };
 
   function getIdByName(targetName) {
